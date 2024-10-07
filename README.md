@@ -1,4 +1,4 @@
-# Louis Family mysterious recipes
+# Louis Clan mysterious recipes
 
 Set of recipes as given by my grandma
 
